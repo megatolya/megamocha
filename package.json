@@ -1,6 +1,6 @@
 {
   "name": "megamocha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper for creating fake (mochable) servers",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/megatolya/megamocha#readme",
   "dependencies": {
-    "express": "^4.14.0",
-    "lodash": "^4.14.1",
-    "supertest": "^2.0.0"
+    "express": "4.14.0",
+    "lodash": "4.14.1",
+    "supertest": "2.0.0"
   }
 }
